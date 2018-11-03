@@ -1,6 +1,6 @@
 ##########################################
 #Dockerfile to build Nginx container image
-#Based on ubuntu image
+#Based on ubuntu image test
 ##########################################
 
 #Set the base image to ubuntu
